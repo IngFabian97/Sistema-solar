@@ -12,4 +12,5 @@ public class Main {
     System.out.println("Es un planeta exterior: " + planeta.planetaExterior(1));
        
     }
+
 }
