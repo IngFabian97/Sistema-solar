@@ -1,0 +1,30 @@
+# Directorios de construcción
+/build/
+/target/
+
+# Archivos de configuración de IntelliJ IDEA
+/.idea/
+/*.iml
+
+# Archivos de configuración de Eclipse
+/.project
+/.settings/
+/.classpath
+
+# Archivos de configuración de VS Code
+/.vscode/
+
+# Archivos de logs
+*.log
+
+# Librerías
+*.jar
+*.war
+*.ear
+
+# Archivos de sistema operativos
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación
+*.class
